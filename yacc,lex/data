@@ -1,6 +1,5 @@
-float a;
-float b;
-a = 2.0E-2;
-b = 3.5 + 2 + a;
-
+int a;
+int b;
+a = 23+4+6;
+b = a+1+8/2*a;
 
