@@ -1,8 +1,8 @@
 # id_declaration_and_three_address_code_generate
 
-A Three address code generator with id_declartion.
+## A Three address code generator with id_declartion.
 
-use example : 
+### use example 
 
 $lex example.lex
 
@@ -16,7 +16,7 @@ $cat output
 
 
 
-data example : 
+### data example : 
 
 int a;
 
@@ -28,7 +28,7 @@ b = a + 1 + 8 / 2 * a;
 
 
 
-output example :
+### output example :
 
 t0 = 23 + 4
 
